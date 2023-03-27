@@ -17,3 +17,4 @@ https://www.linkedin.com/in/omar-abdelaziz-20598/
 Thanks for watching.
 
 <img src="https://drive.google.com/file/d/1qsfZhwAq5G5jT21kGfPwQAdXslJGKGYq/view?usp=sharing">
+<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20All%20Courses-%2B200h-blue">
